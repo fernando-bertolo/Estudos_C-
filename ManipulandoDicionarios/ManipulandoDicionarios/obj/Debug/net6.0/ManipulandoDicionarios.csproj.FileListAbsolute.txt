@@ -1,0 +1,14 @@
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\bin\Debug\net6.0\ManipulandoDicionarios.exe
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\bin\Debug\net6.0\ManipulandoDicionarios.deps.json
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\bin\Debug\net6.0\ManipulandoDicionarios.runtimeconfig.json
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\bin\Debug\net6.0\ManipulandoDicionarios.dll
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\bin\Debug\net6.0\ManipulandoDicionarios.pdb
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.AssemblyInfoInputs.cache
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.AssemblyInfo.cs
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.csproj.CoreCompileInputs.cache
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.dll
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\refint\ManipulandoDicionarios.dll
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.pdb
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ManipulandoDicionarios.genruntimeconfig.cache
+D:\Estudos_CSharp\ManipulandoDicionarios\ManipulandoDicionarios\obj\Debug\net6.0\ref\ManipulandoDicionarios.dll

@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\bin\Debug\net6.0\GerarNumeroAleatorio.exe
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\bin\Debug\net6.0\GerarNumeroAleatorio.deps.json
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\bin\Debug\net6.0\GerarNumeroAleatorio.runtimeconfig.json
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\bin\Debug\net6.0\GerarNumeroAleatorio.dll
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\bin\Debug\net6.0\GerarNumeroAleatorio.pdb
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.AssemblyInfo.cs
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.dll
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\refint\GerarNumeroAleatorio.dll
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.pdb
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\GerarNumeroAleatorio.genruntimeconfig.cache
+D:\Microsoft Visual Studio\GerarNumeroAleatorio\GerarNumeroAleatorio\obj\Debug\net6.0\ref\GerarNumeroAleatorio.dll

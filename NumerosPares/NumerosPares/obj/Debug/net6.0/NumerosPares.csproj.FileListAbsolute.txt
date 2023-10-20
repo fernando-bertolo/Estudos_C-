@@ -1,0 +1,14 @@
+D:\Estudos_CSharp\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.exe
+D:\Estudos_CSharp\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.deps.json
+D:\Estudos_CSharp\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.runtimeconfig.json
+D:\Estudos_CSharp\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.dll
+D:\Estudos_CSharp\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.pdb
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.AssemblyInfoInputs.cache
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.AssemblyInfo.cs
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.csproj.CoreCompileInputs.cache
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.dll
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\refint\NumerosPares.dll
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.pdb
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.genruntimeconfig.cache
+D:\Estudos_CSharp\NumerosPares\NumerosPares\obj\Debug\net6.0\ref\NumerosPares.dll

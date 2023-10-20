@@ -1,0 +1,28 @@
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.exe
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.deps.json
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.runtimeconfig.json
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.dll
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.pdb
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.dll
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\refint\Aprendendo.dll
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.pdb
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Aprendendo\Aprendendo\obj\Debug\net6.0\ref\Aprendendo.dll
+D:\Estudos_CSharp\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.exe
+D:\Estudos_CSharp\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.deps.json
+D:\Estudos_CSharp\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.runtimeconfig.json
+D:\Estudos_CSharp\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.dll
+D:\Estudos_CSharp\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.pdb
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfoInputs.cache
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfo.cs
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.csproj.CoreCompileInputs.cache
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.dll
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\refint\Aprendendo.dll
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.pdb
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.genruntimeconfig.cache
+D:\Estudos_CSharp\Aprendendo\Aprendendo\obj\Debug\net6.0\ref\Aprendendo.dll
